@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# API keys / secrets
+config.json
+
+# Chroma vector store (auto-generated)
+Research assistant/chroma_db/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
