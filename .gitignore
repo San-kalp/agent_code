@@ -5,7 +5,7 @@ venv/
 config.json
 
 # Chroma vector store (auto-generated)
-Research assistant/chroma_db/
+**/chroma_db/
 
 # macOS
 .DS_Store
